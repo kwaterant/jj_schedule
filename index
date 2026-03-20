@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>근무스케줄 매니저 v7</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1>근무스케줄 매니저 v7</h1>
+    <p>이 페이지는 근무 스케줄 관리 시스템입니다.</p>
+
+    <!-- 추가적으로 작성한 HTML 내용들 -->
+</body>
+</html>
